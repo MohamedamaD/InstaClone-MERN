@@ -1,0 +1,6 @@
+.carousel-container {
+    a[role="button"] {
+        height: fit-content;
+        top: 50%;
+    }
+}

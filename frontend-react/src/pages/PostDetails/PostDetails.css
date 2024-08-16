@@ -1,0 +1,11 @@
+#post-details {
+
+    .carousel-container,
+    .carousel-inner {
+        height: 100% !important;
+
+        img,video {
+            height: 100% !important;
+        }
+    }
+}

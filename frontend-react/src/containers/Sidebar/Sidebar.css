@@ -1,0 +1,11 @@
+#sidebar {
+    width: 350px;
+
+    .brand {
+        justify-content: flex-start !important;
+    }
+
+    @media screen and (max-width: 991px) {
+        width: fit-content;
+    }
+}
